@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working:
   - Intern SmartWash Solutions
+  - Crypto Trading Bot
   - On a [Qurantine home-workout app](https://github.com/Fitness-App-Gang/Quick-Fitness)
   - Solving AlgoExpert problems
 
