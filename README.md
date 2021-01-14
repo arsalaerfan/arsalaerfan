@@ -11,10 +11,10 @@
 
 - 👯 I’m looking to collaborate on projects that are:
   - Interesting and fun
-  - Opportunity to learn somethign new
+  - Opportunity to learn something new
 
 - 📫 How to reach me:
   - via email: earsala@csumb.edu
   - via [LinkedIn](https://www.linkedin.com/in/erfanullah-arsala-10b6ba162/)
 
-[![Erfan's github stats](https://github-readme-stats.vercel.app/api?username=nashirj&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/nashirj/github-readme-stats)
+[![Erfan's github stats](https://github-readme-stats.vercel.app/api?username=arsalaerfan&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/arsalaerfan/github-readme-stats)
