@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**arsalaerfan/arsalaerfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working:
+  - Intern SmartWash Solutions
+  - On a [Qurantine home-workout app](https://github.com/Fitness-App-Gang/Quick-Fitness)
+  - Solving AlgoExpert problems
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about:
+  - Datbase Mangement
+  - Software development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on projects that are:
+  - Interesting and fun
+  - Opportunity to learn somethign new
+
+- 📫 How to reach me:
+  - via email: earsala@csumb.edu
+  - via [LinkedIn](https://www.linkedin.com/in/erfanullah-arsala-10b6ba162/)
+
+[![Erfan's github stats](https://github-readme-stats.vercel.app/api?username=nashirj&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/nashirj/github-readme-stats)
